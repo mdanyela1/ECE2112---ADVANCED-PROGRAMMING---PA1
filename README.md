@@ -36,5 +36,16 @@ This makes text-based conversations more fun and expressive!
 Given a list, the program extracts its parts using **list indexing and slicing**:  
 
 -----------------------------------------------
+# How to run
+1. Make sure you have **Python 3** installed on your computer.  
+2. Save each problem in its own file:  
+   - `alphabet_soup.py` → for Problem 1  
+   - `emoticon.py` → for Problem 2  
+   - `unpacking_list.py` → for Problem 3  
+3. Open a terminal (or command prompt) in the folder where the files are saved.  
+4. Run the program using:  
+
+```bash
+python filename.py
 
 
