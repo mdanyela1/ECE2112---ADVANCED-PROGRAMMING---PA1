@@ -26,7 +26,7 @@ This makes text-based conversations more fun and expressive!
 
 -----------------------------------------
 
-#3:UNPACKING LIST PROBLEM: Unpack the list write your code here into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables.
+# 3:UNPACKING LIST PROBLEM: Unpack the list write your code here into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables.
 - This project solves the **Unpacking List Problem**: A Python program that unpacks a list into three variables:  
 - `first` → the first element  
 - `middle` → all elements between the first and last  
