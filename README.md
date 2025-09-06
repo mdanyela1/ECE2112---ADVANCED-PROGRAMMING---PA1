@@ -3,7 +3,7 @@
 SACABEN, MARIA DANIELA C.
 2ECE-C
 -------------------------------------
-#1:ALPHABET SOUP PROBLEM: Create a function that takes a string and rturns a string with its letters in alphabetical order.
+# 1:ALPHABET SOUP PROBLEM: Create a function that takes a string and rturns a string with its letters in alphabetical order.
 - This project solves the **Alphabet Soup Problem**:  A function that takes a string and returns a new string with its letters sorted in **alphabetical order**.  
 
 # Description  
@@ -12,7 +12,7 @@ SACABEN, MARIA DANIELA C.
 - Sorting is **case-insensitive**, but the original letter case is preserved in the result. 
 -------------------------------------
 
-#2:EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon.
+# 2:EMOTICON PROBLEM: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon.
 - This project solves the **Emoticon Problem**: A Python function that takes a sentence as input and replaces specific words with their corresponding **emoticons**.  
 
 # Description 
